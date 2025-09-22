@@ -1,4 +1,4 @@
-Data and code for our paper *LVLMs are Bad at *Overhearing Human Referential Communication*, which is accepted to EMNLP 2025 (Main).
+Data and code for our paper *LVLMs are Bad at Overhearing Human Referential Communication*, which is accepted to EMNLP 2025 (Main).
 
 
 
