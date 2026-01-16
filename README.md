@@ -37,14 +37,26 @@ See `examples_run.sh` for more examples of how to re-implement our experiments.
 ## Citation 
 
 ```
-@misc{wang2025lvlmsbadoverhearinghuman,
-      title={LVLMs are Bad at Overhearing Human Referential Communication}, 
-      author={Zhengxiang Wang and Weiling Li and Panagiotis Kaliosis and Owen Rambow and Susan E. Brennan},
-      year={2025},
-      eprint={2509.11514},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2509.11514}, 
+@inproceedings{wang-etal-2025-lvlms,
+    title = "{LVLM}s are Bad at Overhearing Human Referential Communication",
+    author = "Wang, Zhengxiang  and
+      Li, Weiling  and
+      Kaliosis, Panagiotis  and
+      Rambow, Owen  and
+      Brennan, Susan",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.849/",
+    doi = "10.18653/v1/2025.emnlp-main.849",
+    pages = "16758--16782",
+    ISBN = "979-8-89176-332-6"
 }
 ```
 
